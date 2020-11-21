@@ -1,2 +1,2 @@
 # powershell
-Powershell commands
+## A small repositary of Powershell commands
