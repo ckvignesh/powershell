@@ -1,7 +1,7 @@
 ﻿Write-Host "Armstrong Number"
 $n=Read-Host "Enter a 3 digit number"
 
-if($n -eq 0){Write-Host Number cannot be 000. Try again}
+if($n -eq 0){Write-Host Number cannot be 000. Try again please}
 else{
 $a=($n%100-($n%10))/10
 $b=($n%10)
